@@ -20,7 +20,10 @@
 3. [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) is a first part of list of articles. 
 4. [Deep Reinforcement Learning from beginner to expert](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) is a first part of list of articles by @simoninithomas.
 
+## Workshops ##
+1. [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/) first RL Workshop by OpenAI.  This workshop took a deeper dive into RL algorithm design, robotics, and building safe AI systems. All resource package here [here](https://spinningup.openai.com/en/latest/)
+
 ## RL Software ##
-[GYM](https://gym.openai.com/) - is a toolkit for developing and comparing reinforcement learning algorithms. 
+1. [GYM](https://gym.openai.com/) - is a toolkit for developing and comparing reinforcement learning algorithms. 
 
 ## Books ##
