@@ -21,7 +21,7 @@
 4. [Deep Reinforcement Learning from beginner to expert](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) is a first part of list of articles by @simoninithomas.
 
 ## Workshops ##
-1. Overview the first RL Workshop [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)  by OpenAI. This workshop took a deeper dive into RL algorithm design, robotics, and building safe AI systems. All resource package here [here](https://spinningup.openai.com/en/latest/).
+1. Overview of the first RL Workshop [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)  by OpenAI. This workshop took a deeper dive into RL algorithm design, robotics, and building safe AI systems. All resource package [here](https://spinningup.openai.com/en/latest/).
 
 ## RL Software ##
 1. [GYM](https://gym.openai.com/) - is a toolkit for developing and comparing reinforcement learning algorithms. 
