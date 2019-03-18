@@ -1,4 +1,5 @@
 # awesome-ml
+List of interesting things about Machine Learning Algorithms.
 
 ## [Network Analysis](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Network%20Analysis.md) ##
 
