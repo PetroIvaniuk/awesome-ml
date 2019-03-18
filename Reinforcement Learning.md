@@ -1,4 +1,4 @@
-# awesome-reinforcement-learning
+# reinforcement-learning
 
 ## Courses ##
 1. [Reinforcement Learning Explained](https://www.edx.org/course/reinforcement-learning-explained-3) by Microsoft on edx.
