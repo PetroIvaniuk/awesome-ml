@@ -8,6 +8,12 @@
 1. [Knowledge Graphs](https://paperswithcode.com/task/knowledge-graphs) is a list of papers with code related to Knowledge Graphs area.
 2. [Geometric Deep Learning](http://geometricdeeplearning.com/) is website built for collecting workshops, tutorials, publications and code, that several different researchers has produced in the last years.
 
+## Blogs ##
+1. [Research Blog](https://medium.com/octavian-ai) of (OCTAVIAN)[https://www.octavian.ai/] that create new approaches to machine reasoning and graph-based learning.
+2. 
+
 ## Articles ##
-1. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about implementation SimplE algorithm. [Pytorch](https://github.com/baharefatemi/SimplE), [Tensorflow](https://github.com/Mehran-k/SimplE)
-2. []()
+1. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about SimplE algorithm. [PyTorch](https://github.com/baharefatemi/SimplE), [Tensorflow](https://github.com/Mehran-k/SimplE).
+2. [GCN](http://tkipf.github.io/graph-convolutional-networks/) is a blog article about the main ideas of Graph Convolutional Networks. [PyTorch](https://github.com/tkipf/pygcn) and [Tensorflow](https://github.com/tkipf/gcn).
+3. 
+
