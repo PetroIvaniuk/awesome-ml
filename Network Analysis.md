@@ -9,7 +9,7 @@
 2. [Geometric Deep Learning](http://geometricdeeplearning.com/) is website built for collecting workshops, tutorials, publications and code, that several different researchers has produced in the last years.
 
 ## Blogs ##
-1. [Research Blog](https://medium.com/octavian-ai) of (OCTAVIAN)[https://www.octavian.ai/] that create new approaches to machine reasoning and graph-based learning.
+1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
 2. 
 
 ## Articles ##
