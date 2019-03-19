@@ -7,3 +7,7 @@
 ## Materials ##
 1. [Knowledge Graphs](https://paperswithcode.com/task/knowledge-graphs) is a list of papers with code related to Knowledge Graphs area.
 2. [Geometric Deep Learning](http://geometricdeeplearning.com/) is website built for collecting workshops, tutorials, publications and code, that several different researchers has produced in the last years.
+
+## Articles ##
+1. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about implementation SimplE algorithm. [Pytorch](https://github.com/baharefatemi/SimplE), [Tensorflow](https://github.com/Mehran-k/SimplE)
+2. []()
