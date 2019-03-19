@@ -10,7 +10,7 @@
 
 ## Blogs ##
 1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
-2. 
+2. [Thomas Kipf Blog](http://tkipf.github.io).
 
 ## Articles ##
 1. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about SimplE algorithm. [PyTorch](https://github.com/baharefatemi/SimplE), [Tensorflow](https://github.com/Mehran-k/SimplE).
