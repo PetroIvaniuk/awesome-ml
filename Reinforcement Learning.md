@@ -19,6 +19,7 @@
 2. [Reinforcement Learning from scratch](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8) is a comprehensive overview of many of the main algorithms that power Deep RL today.
 3. [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) is a first part of list of articles. 
 4. [Deep Reinforcement Learning from beginner to expert](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) is a first part of list of articles by [Thomas Simonini](https://medium.freecodecamp.org/@thomassimonini). [A Course Page](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
+5. OpenAI gym [Part1](http://www.pinchofintelligence.com/getting-started-openai-gym/), [Part2](http://www.pinchofintelligence.com/introduction-openai-gym-part-2-building-deep-q-network/) and [Part3](http://www.pinchofintelligence.com/openai-gym-part-3-playing-space-invaders-deep-reinforcement-learning/) by [Roland Meertens](http://www.pinchofintelligence.com/).
 
 ## Workshops ##
 1. Overview of the first RL Workshop [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)  by OpenAI. This workshop took a deeper dive into RL algorithm design, robotics, and building safe AI systems. All resource package [here](https://spinningup.openai.com/en/latest/).
