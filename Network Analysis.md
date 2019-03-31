@@ -9,6 +9,10 @@
 1. [Knowledge Graphs](https://paperswithcode.com/task/knowledge-graphs) is a list of papers with code related to Knowledge Graphs area.
 2. [Geometric Deep Learning](http://geometricdeeplearning.com/) is website built for collecting workshops, tutorials, publications and code, that several different researchers has produced in the last years.
 
+## Tutorials ##
+1. [Mining Knowledge Graphs from Text](https://kgtutorial.github.io/) (WSDM, 2018)
+2. [Knowledge Graphs: In Theory and Practice](http://sumitbhatia.net/source/knowledge-graph-tutorial.html) (FIRE, 2018)
+
 ## Blogs ##
 1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
 2. [Thomas Kipf Blog](http://tkipf.github.io).
