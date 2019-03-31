@@ -5,7 +5,7 @@
 2. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) by UC Berkeley (CS294-112).
 3. [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) by Georgia Tech on Udacity (CS 8803).
 4. [Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by UCL.
-5. [Deep RL Bootcamp 2017](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U) by US Berkeley, Open AI and others.
+5. [Deep RL Bootcamp 2017](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U) by US Berkeley, Open AI and others. 
 
 ## Videos ##
 1. [Q Learning Explained (tutorial)](https://www.youtube.com/watch?v=aCEvtRtNO-M) by Siraj Raval.
@@ -18,7 +18,7 @@
 1. [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752) is awesome cartoon about RL.
 2. [Reinforcement Learning from scratch](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8) is a comprehensive overview of many of the main algorithms that power Deep RL today.
 3. [Simple Reinforcement Learning with Tensorflow](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) is a first part of list of articles. 
-4. [Deep Reinforcement Learning from beginner to expert](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) is a first part of list of articles by @simoninithomas.
+4. [Deep Reinforcement Learning from beginner to expert](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) is a first part of list of articles by [Thomas Simonini](https://medium.freecodecamp.org/@thomassimonini). [A Course Page](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/). 
 
 ## Workshops ##
 1. Overview of the first RL Workshop [Spinning Up in Deep RL](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)  by OpenAI. This workshop took a deeper dive into RL algorithm design, robotics, and building safe AI systems. All resource package [here](https://spinningup.openai.com/en/latest/).
