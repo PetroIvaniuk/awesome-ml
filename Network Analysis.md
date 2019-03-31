@@ -18,3 +18,7 @@
 3. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about SimplE algorithm. [PyTorch](https://github.com/baharefatemi/SimplE) and [Tensorflow](https://github.com/Mehran-k/SimplE).
 4. [TuckER: Tensor Factorization for Knowledge Graph Completion](https://arxiv.org/pdf/1901.09590.pdf). [PyTorch](https://github.com/ibalazevic/TuckER)
 
+## Videos ##
+
+1. [Small Knowledge Graph](https://www.youtube.com/watch?v=W9pRpSW_KqA&list=PLDTNeLv65NpwM32oZGshwlf-00E8vt5VE) by Google.
+
