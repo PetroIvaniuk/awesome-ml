@@ -1,9 +1,13 @@
 ##  Software ##
+ - 
 1. [NetworkX](https://networkx.github.io/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 2. [Deep Graph Library](https://docs.dgl.ai/) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
 3. [PyTorch Geometric](https://rusty1s.github.io/pytorch_geometric/build/html/index.html) is a geometric deep learning extension library for PyTorch. [Paper](https://arxiv.org/pdf/1903.02428v2.pdf).
 4. [OpenKE](http://139.129.163.161/home) is an open-source framework for knowledge embedding based on the TensorFlow toolkit. [Paper](https://aclweb.org/anthology/D18-2024).
 6. [Graph Nets ](https://github.com/deepmind/graph_nets) is DeepMind's library for building graph networks in Tensorflow and Sonnet. [Paper](https://arxiv.org/pdf/1806.01261.pdf)
+- ### Information Extraction ###
+1. [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html). [Online Demo](http://corenlp.run/)
+2. 
 
 ## Materials ##
 1. [Knowledge Graphs](https://paperswithcode.com/task/knowledge-graphs) is a list of papers with code related to Knowledge Graphs area.
