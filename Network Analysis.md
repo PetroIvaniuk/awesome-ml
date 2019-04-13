@@ -6,8 +6,8 @@
 4. [OpenKE](http://139.129.163.161/home) is an open-source framework for knowledge embedding based on the TensorFlow toolkit. [Paper](https://aclweb.org/anthology/D18-2024).
 6. [Graph Nets ](https://github.com/deepmind/graph_nets) is DeepMind's library for building graph networks in Tensorflow and Sonnet. [Paper](https://arxiv.org/pdf/1806.01261.pdf)
 - ### Information Extraction ###
-1. [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html). [Online Demo](http://corenlp.run/)
-2. 
+1. [Stanford OpenIE](https://nlp.stanford.edu/software/openie.html) refers to the extraction of relation tuples, typically binary relations, from plain text. [Online Demo](http://corenlp.run/) of Stanford NLP. [Python Wrapper](https://github.com/philipperemy/information-extraction-with-dominating-rules).
+2. [Graphene](http://lambda3.org/Graphene/) is an information extraction pipeline which extracts Knowledge Graphs from texts.
 
 ## Materials ##
 1. [Knowledge Graphs](https://paperswithcode.com/task/knowledge-graphs) is a list of papers with code related to Knowledge Graphs area.
