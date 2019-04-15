@@ -17,6 +17,7 @@
 ## Tutorials ##
 1. [Mining Knowledge Graphs from Text](https://kgtutorial.github.io/) (WSDM, 2018)
 2. [Knowledge Graphs: In Theory and Practice](http://sumitbhatia.net/source/knowledge-graph-tutorial.html) (FIRE, 2018)
+3. [Knowledge	Graphs	](https://staff.fnwi.uva.nl/e.kanoulas/wp-content/uploads/Lecture-10-2-Knowledge-Graphs.pdf) by Evangelos Kanoulas.
 
 ## Blogs ##
 1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
