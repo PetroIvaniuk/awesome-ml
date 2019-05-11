@@ -1,5 +1,5 @@
 ##  Software ##
- - 
+ - ### Graph ###
 1. [NetworkX](https://networkx.github.io/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 2. [Deep Graph Library](https://docs.dgl.ai/) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
 3. [PyTorch Geometric](https://rusty1s.github.io/pytorch_geometric/build/html/index.html) is a geometric deep learning extension library for PyTorch. [Paper](https://arxiv.org/pdf/1903.02428v2.pdf).
@@ -18,12 +18,13 @@
 1. [Mining Knowledge Graphs from Text](https://kgtutorial.github.io/) (WSDM, 2018)
 2. [Knowledge Graphs: In Theory and Practice](http://sumitbhatia.net/source/knowledge-graph-tutorial.html) (FIRE, 2018)
 3. [Knowledge	Graphs	](https://staff.fnwi.uva.nl/e.kanoulas/wp-content/uploads/Lecture-10-2-Knowledge-Graphs.pdf) by Evangelos Kanoulas.
+4. [KNOWLEDGE EXTRACTION FROM UNSTRUCTURED TEXTS](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/) is an article about some techniques.
 
 ## Blogs ##
 1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
 2. [Thomas Kipf Blog](http://tkipf.github.io).
 
-## Articles ##
+## Papers ##
 1. [Graphs and neural networks: Reading node properties](https://github.com/Octavian-ai/gqa-node-properties) is a blog paper about a basic Graph-Question-Answer (GQA) tasks. [Code](https://github.com/Octavian-ai/gqa-node-properties).
 2. [GCN](http://tkipf.github.io/graph-convolutional-networks/) is a blog article about the main ideas of Graph Convolutional Networks. [PyTorch](https://github.com/tkipf/pygcn) and [Tensorflow](https://github.com/tkipf/gcn).
 3. [SimplE Embedding for Link Prediction in Knowledge Graphs](https://arxiv.org/pdf/1802.04868v2.pdf) is paper about SimplE algorithm. [PyTorch](https://github.com/baharefatemi/SimplE) and [Tensorflow](https://github.com/Mehran-k/SimplE).
