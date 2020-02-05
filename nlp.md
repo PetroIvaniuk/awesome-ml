@@ -11,3 +11,4 @@
 
 ## Books ##
 1. [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+2. [14 Chapter. Natural Language Processing](https://d2l.ai/chapter_natural-language-processing/index.html) of [Dive into Deep Learning](https://d2l.ai/)
