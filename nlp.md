@@ -9,7 +9,7 @@
 
 - [SPACY IRL 2019](https://irl.spacy.io/2019/). [Video](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
 
-- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) is a part of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [deeplearning.ai](https://www.deeplearning.ai/)
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) is a 5th course of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng
 
 ## Books ##
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
