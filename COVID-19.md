@@ -7,3 +7,7 @@
 ## Maps ##
 
 ## Courses ##
+
+## Videos ##
+
+## Competitions ##
