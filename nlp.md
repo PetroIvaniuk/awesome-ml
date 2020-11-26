@@ -13,6 +13,8 @@
 
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) is a 5th course of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng
 
+- [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) by the Carnegie Mellon University Language Technologies Institute in May 2020
+
 ## Books ##
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html) and [15. Natural Language Processing: Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html) of [Dive into Deep Learning](https://d2l.ai/)
