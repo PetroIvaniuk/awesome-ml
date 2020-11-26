@@ -24,5 +24,5 @@
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
 ## NewsLetters ##
-- [http://newsletter.ruder.io/](NLP News by Sebastian Ruder)
-- [https://dair.ai/](dair.ai)
+- [NLP News by Sebastian Ruder](http://newsletter.ruder.io/)
+- [dair.ai](https://dair.ai/)
