@@ -18,7 +18,11 @@
 ## Books ##
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html) and [15. Natural Language Processing: Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html) of [Dive into Deep Learning](https://d2l.ai/)
+- [NLP Overview. Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com/)
 
 ## APIs ##
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
+## NewsLetters ##
+- [dair.ai](https://dair.ai/)
+- [http://newsletter.ruder.io/](NLP News by Sebastian Ruder)
