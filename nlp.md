@@ -9,7 +9,7 @@
 
 - [new fast.ai course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/). [Video](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
-- [NLP Course | For You] (https://lena-voita.github.io/nlp_course.html) by Lena Voita
+- [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) by Lena Voita
 
 - [SPACY IRL 2019](https://irl.spacy.io/2019/). [Video](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
 
