@@ -9,6 +9,8 @@
 
 - [new fast.ai course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/). [Video](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 
+- [NLP Course | For You] (https://lena-voita.github.io/nlp_course.html) by Lena Voita
+
 - [SPACY IRL 2019](https://irl.spacy.io/2019/). [Video](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
 
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) is a 5th course of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng
@@ -23,6 +25,6 @@
 ## APIs ##
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
-## NewsLetters ##
+## NewsLetter ##
 - [NLP News](http://newsletter.ruder.io/) by Sebastian Ruder
 - [dair.ai](https://dair.ai/)
