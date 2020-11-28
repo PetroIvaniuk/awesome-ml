@@ -25,6 +25,10 @@
 ## APIs ##
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
+## Frameworks and Librarys ##
+- [TextAttack](https://github.com/QData/TextAttack) is a Python framework for adversarial attacks, data augmentation, and model training in NLP. [Documentation](https://textattack.readthedocs.io/en/latest/)
+-[CleverHans](https://github.com/tensorflow/cleverhans) is a Python library to benchmark ML systems' vulnerability to adversarial examples.
+
 ## NewsLetter ##
 - [NLP News](http://newsletter.ruder.io/) by Sebastian Ruder
 - [dair.ai](https://dair.ai/)
