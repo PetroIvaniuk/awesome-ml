@@ -25,6 +25,8 @@
 ## APIs ##
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
+- [Huggingface](https://huggingface.co/models)
+
 ## Frameworks and Librarys ##
 - [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images. [Build a LIME explainer dashboard with the fewest lines of code](https://towardsdatascience.com/build-a-lime-explainer-dashboard-with-the-fewest-lines-of-code-bfe12e4592d4)
 
@@ -34,6 +36,7 @@
 
 ## NewsLetter ##
 - [NLP News](http://newsletter.ruder.io/) by Sebastian Ruder
+
 - [dair.ai](https://dair.ai/)
 
 # Topics #
