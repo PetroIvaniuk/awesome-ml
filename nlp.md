@@ -26,7 +26,7 @@
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 
 ## Frameworks and Librarys ##
-- [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images.
+- [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images. [https://towardsdatascience.com/build-a-lime-explainer-dashboard-with-the-fewest-lines-of-code-bfe12e4592d4](Build a LIME explainer dashboard with the fewest lines of code)
 - [TextAttack](https://github.com/QData/TextAttack) is a Python framework for adversarial attacks, data augmentation, and model training in NLP. [Documentation](https://textattack.readthedocs.io/en/latest/)
 - [CleverHans](https://github.com/tensorflow/cleverhans) is a Python library to benchmark ML systems' vulnerability to adversarial examples.
 
