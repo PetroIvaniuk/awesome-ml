@@ -1,4 +1,4 @@
-# Natural Language Processing
+# Natural Language Processing #
 
 ## Courses ##
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/). Video: [Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
@@ -36,3 +36,6 @@
 
 # Topics #
 ## Toxicity detection ##
+- [AI advances to better detect hate speech](https://ai.facebook.com/blog/ai-advances-to-better-detect-hate-speech/) is Facebook application (building on XLM-R)
+- [The Unfriendly Robot: Automatically flagging unwelcoming comments](https://stackoverflow.blog/2020/04/09/the-unfriendly-robot-automatically-flagging-unwelcoming-comments/) is StackOverflow application (building on ULMFiT)
+- [Evaluating Neural Toxic Degeneration in Language Models](https://toxicdegeneration.allenai.org/)
