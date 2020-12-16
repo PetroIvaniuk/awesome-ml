@@ -33,3 +33,6 @@
 ## NewsLetter ##
 - [NLP News](http://newsletter.ruder.io/) by Sebastian Ruder
 - [dair.ai](https://dair.ai/)
+
+# Topics #
+## Toxicity detection ##
