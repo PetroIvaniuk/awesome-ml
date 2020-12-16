@@ -6,3 +6,9 @@ List of interesting things about Machine Learning Algorithms:
 ## [Network Analysis](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Network%20Analysis.md) ##
 
 ## [Reinforcement Learning](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Reinforcement%20Learning.md) ##
+
+## Challenges ##
+
+ - [Kaggle](https://www.kaggle.com/) is data science challenges platform
+ - [Xeek](https://xeek.ai/challenges) is challenges unite the data and geoscience communities around the shared goal of crowdsourcing innovative solutions that solve the biggest challenges in exploration.
+ - [Alexa Prize](https://developer.amazon.com/alexaprize)
