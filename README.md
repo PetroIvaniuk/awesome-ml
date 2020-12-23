@@ -19,5 +19,6 @@ List of interesting things about Machine Learning Algorithms:
  
 - [Coursera](https://www.coursera.org/)
 - [EDX](https://www.edx.org/)
+- [Datacamp](https://learn.datacamp.com/)
 - [Prometeus](https://prometheus.org.ua/)
 - [Stepik](https://stepik.org/)
