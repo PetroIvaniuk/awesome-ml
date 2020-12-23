@@ -12,3 +12,10 @@ List of interesting things about Machine Learning Algorithms:
  - [Kaggle](https://www.kaggle.com/) is data science challenges platform
  - [Xeek](https://xeek.ai/challenges) is challenges unite the data and geoscience communities around the shared goal of crowdsourcing innovative solutions that solve the biggest challenges in exploration.
  - [Alexa Prize](https://developer.amazon.com/alexaprize)
+
+## Learning platforms ##
+ 
+- [Coursera](https://www.coursera.org/)
+- [EDX](https://www.edx.org/)
+- [Prometeus](https://prometheus.org.ua/)
+- [Stepic](https://stepik.org/)
