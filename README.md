@@ -18,4 +18,4 @@ List of interesting things about Machine Learning Algorithms:
 - [Coursera](https://www.coursera.org/)
 - [EDX](https://www.edx.org/)
 - [Prometeus](https://prometheus.org.ua/)
-- [Stepic](https://stepik.org/)
+- [Stepik](https://stepik.org/)
