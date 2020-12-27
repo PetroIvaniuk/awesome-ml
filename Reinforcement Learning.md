@@ -5,7 +5,7 @@
 2. [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) by UC Berkeley (CS294-112).
 3. [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) by Georgia Tech on Udacity (CS 8803).
 4. [Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by UCL.
-5. [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/) [Video](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U) by US Berkeley, Open AI and others. 
+5. [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/) by US Berkeley, Open AI and others. [Video](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 
 ## Videos ##
 1. [Q Learning Explained (tutorial)](https://www.youtube.com/watch?v=aCEvtRtNO-M) by Siraj Raval.
