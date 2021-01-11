@@ -27,3 +27,4 @@ List of interesting things about Machine Learning Algorithms:
 - [Prometeus](https://prometheus.org.ua/)
 - [Stepik](https://stepik.org/)
 - [HackerRank](https://www.hackerrank.com/) - practice coding skills
+- [PythonProgramming](https://pythonprogramming.net/)
