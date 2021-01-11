@@ -5,7 +5,7 @@ List of interesting things about Machine Learning Algorithms:
 
 ## [Linear Algebra](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Linear%20Algebra.md) ##
 
-## [NLP](https://github.com/PetroIvaniuk/awesome-ml/blob/master/nlp.md) ##
+## [Natural Language Processing (NLP)](https://github.com/PetroIvaniuk/awesome-ml/blob/master/nlp.md) ##
 
 ## [Network Analysis](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Network%20Analysis.md) ##
 
