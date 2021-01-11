@@ -1,1 +1,1 @@
-[](http://karpathy.github.io/)
+[Andrej Karpathy](http://karpathy.github.io/)
