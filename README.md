@@ -1,7 +1,7 @@
 # awesome-ml
 List of interesting things about Machine Learning Algorithms:
 
-## [Blogs](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Blogs.md) ##
+## [AI Blogs](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Blogs.md) ##
 
 ## [Deep Learning](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Deep%20Learning.md) ##
 
