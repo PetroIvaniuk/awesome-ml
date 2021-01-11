@@ -4,11 +4,12 @@
  - [Gene Kogan](https://genekogan.com/)
  - [Christopher Olah](http://colah.github.io/)
  - [Ferenc Huszár](https://www.inference.vc/) 
- - [Mike Bostock](https://bost.ocks.org/mike/) [New](https://observablehq.com/@mbostock)
+ - [Mike Bostock.](https://bost.ocks.org/mike/) [New](https://observablehq.com/@mbostock)
  - [Amit Chaudhary](https://amitness.com/)
  - [Mathias Müller](https://bricksdont.github.io/year-archive/) - Machine translation researcher
  - [David Abel](https://david-abel.github.io/index.html)
  - [Sam Greydanus](https://greydanus.github.io/)
+ - [Tom Augspurger](https://tomaugspurger.github.io/) - datasframe
  
  ## Companies ##
   - [OpenAI](https://openai.com/blog/)
