@@ -10,6 +10,7 @@
  - [David Abel](https://david-abel.github.io/index.html)
  - [Sam Greydanus](https://greydanus.github.io/)
  - [Tom Augspurger](https://tomaugspurger.github.io/) - datasframe
+ - [Bogdan Penkovsky](https://penkovsky.com/)
  
  ## Companies ##
   - [OpenAI](https://openai.com/blog/)
