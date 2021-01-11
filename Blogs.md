@@ -1,1 +1,2 @@
- - [Andrej Karpathy](http://karpathy.github.io/) [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - [Andrej Karpathy](http://karpathy.github.io/) - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - [Sebastian Ruder](https://ruder.io/)
