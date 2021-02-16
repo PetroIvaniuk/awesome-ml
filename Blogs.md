@@ -1,4 +1,4 @@
-## Personal Blogs ##
+## Personal ##
  - [Andrej Karpathy](http://karpathy.github.io/) - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
  - [Sebastian Ruder](https://ruder.io/)
  - [Gene Kogan](https://genekogan.com/)
@@ -12,7 +12,7 @@
  - [Tom Augspurger](https://tomaugspurger.github.io/) - Datasframe
  - [Bogdan Penkovsky](https://penkovsky.com/)
  
- ### Ukrainian Researchers Blogs ###
+ ### Ukrainian Researchers ###
  - [Yaroslava Lochman](https://ylochman.github.io/) - Geometry and machine learning in 3D Computer Vision.
  - []()
  
