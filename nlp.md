@@ -17,7 +17,7 @@
 
 - [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) by the Carnegie Mellon University Language Technologies Institute in May 2020
 
-- [NLP with Friends](https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw). [https://nlpwithfriends.com/upcoming/](Schedule)
+- [NLP with Friends](https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw). [Schedule](https://nlpwithfriends.com/upcoming/)
 
 ## Books ##
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
@@ -26,18 +26,13 @@
 
 ## APIs & Models & Datasets ##
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
-
 - [Huggingface](https://huggingface.co/models)
-
 - [EleutherAI](https://eleuther.ai/) - a collection of researchers working to open source AI research. [GPT-Neo](https://eleuther.ai/projects/gpt-neo/). Primary goal is to replicate a GPT-3 sized model and open source it to the public, for free.
-
 - [Grover](https://github.com/rowanz/grover) is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks.
 
 ## Frameworks & Librarys ##
 - [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images. [Build a LIME explainer dashboard with the fewest lines of code](https://towardsdatascience.com/build-a-lime-explainer-dashboard-with-the-fewest-lines-of-code-bfe12e4592d4)
-
 - [TextAttack](https://github.com/QData/TextAttack) is a Python framework for adversarial attacks, data augmentation, and model training in NLP. [Documentation](https://textattack.readthedocs.io/en/latest/)
-
 - [CleverHans](https://github.com/tensorflow/cleverhans) is a Python library to benchmark ML systems' vulnerability to adversarial examples.
 
 ## NewsLetter ##
