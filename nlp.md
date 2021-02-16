@@ -17,7 +17,7 @@
 
 - [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020) by the Carnegie Mellon University Language Technologies Institute in May 2020
 
--[NLP with Friends](https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw). [https://nlpwithfriends.com/upcoming/](Schedule)
+- [NLP with Friends](https://www.youtube.com/channel/UCspapbPlDQn1Tc7Pym2KMTw). [https://nlpwithfriends.com/upcoming/](Schedule)
 
 ## Books ##
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
