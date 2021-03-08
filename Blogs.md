@@ -21,3 +21,4 @@
  ## Companies ##
   - [OpenAI](https://openai.com/blog/)
   - [CMU ML](https://blog.ml.cmu.edu/) - Carnegie Mellon University researchers
+  - [The Batch](https://www.deeplearning.ai/the-batch/) - DeepLearning.AI Blog (Andrew Ng)
