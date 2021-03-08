@@ -11,10 +11,11 @@
  - [David Abel](https://david-abel.github.io/index.html)
  - [Sam Greydanus](https://greydanus.github.io/)
  - [Tom Augspurger](https://tomaugspurger.github.io/) - Datasframe
- - [Bogdan Penkovsky](https://penkovsky.com/)
+ - 
  
  ### Ukrainian Researchers ###
  - [Yaroslava Lochman](https://ylochman.github.io/) - Geometry and machine learning in 3D Computer Vision.
+ - [Bogdan Penkovsky](https://penkovsky.com/)
  - []()
  
  ## Companies ##
