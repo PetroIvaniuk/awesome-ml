@@ -2,6 +2,7 @@
  - [Andrej Karpathy](http://karpathy.github.io/) - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
  - [Sebastian Ruder](https://ruder.io/)
  - [Gene Kogan](https://genekogan.com/)
+ - [Jay Alammar](https://jalammar.github.io/) - Visualizing machine learning one concept at a time.
  - [Christopher Olah](http://colah.github.io/)
  - [Ferenc Huszár](https://www.inference.vc/) 
  - [Mike Bostock.](https://bost.ocks.org/mike/) [New](https://observablehq.com/@mbostock)
