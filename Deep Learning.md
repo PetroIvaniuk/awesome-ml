@@ -14,3 +14,5 @@
 ## Books ##
 
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
+- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
