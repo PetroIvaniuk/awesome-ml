@@ -7,6 +7,7 @@
     * [Winter 2021 Schedule & syllabus](https://stanford-cs329s.github.io/syllabus.html) 
 - Deep Learning by NYU
     * [Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Introduction to Deep Learning](http://introtodeeplearning.com/index.html) by MIT. [Video](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by FastAI
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
 
