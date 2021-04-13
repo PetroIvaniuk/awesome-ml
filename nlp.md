@@ -21,6 +21,8 @@
 - [Huggingface](https://huggingface.co/models)
 - [EleutherAI](https://eleuther.ai/) - a collection of researchers working to open source AI research. [GPT-Neo](https://eleuther.ai/projects/gpt-neo/). Primary goal is to replicate a GPT-3 sized model and open source it to the public, for free.
 - [Grover](https://github.com/rowanz/grover) is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks.
+- [UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://github.com/grammarly/ua-gec) 
+- [GRAC - General Regionally Annotated Corpus of Ukrainian](http://uacorpus.org/) is a large representative collection of texts in Ukrainian accompanied by a program that enables customization of subcorpora, searching words, grammatical forms and their combinations as well as post-processing of the query results.
 
 ## Frameworks & Librarys ##
 - [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images. [Build a LIME explainer dashboard with the fewest lines of code](https://towardsdatascience.com/build-a-lime-explainer-dashboard-with-the-fewest-lines-of-code-bfe12e4592d4)
