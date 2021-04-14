@@ -14,4 +14,4 @@
 - [Linear Algebra for Everyone (2020)](http://math.mit.edu/~gs/everyone/) by [Gilbert Strang](http://math.mit.edu/~gs/)
 
 ## Visualisation ##
--[Fourier Space](https://fourier.space/visualisations) by Dr A. Freddie Page
+- [Fourier Space](https://fourier.space/visualisations) by Dr A. Freddie Page
