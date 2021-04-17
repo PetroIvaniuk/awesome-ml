@@ -23,6 +23,8 @@ List of interesting things about Machine Learning Algorithms:
 - [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
+- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos
+- 
 
 ## Learning Platforms ##
  
