@@ -20,9 +20,9 @@ List of interesting things about Machine Learning Algorithms:
  - [Alexa Prize](https://developer.amazon.com/alexaprize)
 
 ## Books ##
-
-- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
 - [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
 
 ## Learning Platforms ##
  
