@@ -24,9 +24,9 @@
 - [Grover](https://github.com/rowanz/grover) is a model for Neural Fake News - both generation and detection. However, it probably can also be used for other generation tasks.
 
 ### Ukrainian Language ### 
-    * [UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://github.com/grammarly/ua-gec) 
-    * [GRAC - General Regionally Annotated Corpus of Ukrainian](http://uacorpus.org/) is a large representative collection of texts in Ukrainian accompanied by a program that enables customization of subcorpora, searching words, grammatical forms and their combinations as well as post-processing of the query results.
-    * [Gold standard Universal Dependencies corpus for Ukrainian](https://github.com/UniversalDependencies/UD_Ukrainian-IU), [українською](https://mova.institute/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82) by [mova.institute](https://mova.institute/). [морфосинтаксовий аналізатор. Demo](https://mova.institute/%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
+   * [UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://github.com/grammarly/ua-gec) 
+   * [GRAC - General Regionally Annotated Corpus of Ukrainian](http://uacorpus.org/) is a large representative collection of texts in Ukrainian accompanied by a program that enables customization of subcorpora, searching words, grammatical forms and their combinations as well as post-processing of the query results.
+   * [Gold standard Universal Dependencies corpus for Ukrainian](https://github.com/UniversalDependencies/UD_Ukrainian-IU), [українською](https://mova.institute/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82) by [mova.institute](https://mova.institute/). [морфосинтаксовий аналізатор. Demo](https://mova.institute/%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
 
 ## Frameworks & Librarys ##
 - [Lime](https://github.com/marcotcr/lime) is a project about explaining what ML classifiers (or models) are doing. At the moment, we support explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images. [Build a LIME explainer dashboard with the fewest lines of code](https://towardsdatascience.com/build-a-lime-explainer-dashboard-with-the-fewest-lines-of-code-bfe12e4592d4)
