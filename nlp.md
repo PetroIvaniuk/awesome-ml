@@ -21,7 +21,8 @@
 - [OpenAI API](https://beta.openai.com/). [Blog](https://openai.com/blog/openai-api/)
 - [Huggingface](https://huggingface.co/models)
 - [EleutherAI](https://eleuther.ai/) - a collection of researchers working to open source AI research. [GPT-Neo](https://eleuther.ai/projects/gpt-neo/). Primary goal is to replicate a GPT-3 sized model and open source it to the public, for free.
-- [Grover](https://github.com/rowanz/grover) is a model for Neural Fake News -- both generation and detection. However, it probably can also be used for other generation tasks.
+- [Grover](https://github.com/rowanz/grover) is a model for Neural Fake News - both generation and detection. However, it probably can also be used for other generation tasks.
+
 ### Ukrainian Language ### 
   - [UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language](https://github.com/grammarly/ua-gec) 
   - [GRAC - General Regionally Annotated Corpus of Ukrainian](http://uacorpus.org/) is a large representative collection of texts in Ukrainian accompanied by a program that enables customization of subcorpora, searching words, grammatical forms and their combinations as well as post-processing of the query results.
