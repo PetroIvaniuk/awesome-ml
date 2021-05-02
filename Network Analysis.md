@@ -1,4 +1,8 @@
-##  Software ##
+## Courses ##
+1. [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) by Daniel Romero, University of Michigan
+2. [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html). Video: [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) by [Jurij Leskovec](https://cs.stanford.edu/~jure/), Stanford University
+
+## Software ##
  - ### Graph ###
 1. [NetworkX](https://networkx.github.io/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 2. [Deep Graph Library](https://docs.dgl.ai/) is a Python package built for easy implementation of graph neural network model family, on top of existing DL frameworks (e.g. PyTorch, MXNet, Gluon etc.).
