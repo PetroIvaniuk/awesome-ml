@@ -8,8 +8,8 @@
  - Learn Differential Equations. [Video](https://www.mathworks.com/academia/courseware/learn-differential-equations.html) by Gilbert Strang and Cleve Moler
 
 ## Books ##
-- [Mathematics for Machine Learning](https://mml-book.github.io/) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
-- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) by Professor Stephen Boyd, Stanford University
+- [Mathematics for Machine Learning (2021)](https://mml-book.github.io/) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares (2018)](https://web.stanford.edu/~boyd/vmls/) by Professor Stephen Boyd, Stanford University
 - [LAFF-On Programming for High Performance](https://www.cs.utexas.edu/users/flame/laff/pfhp/) by Robert van de Geijn, Margaret Myers, Devangi Parikh. [All books](http://ulaff.net/)
 - [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/) by [Gilbert Strang](http://math.mit.edu/~gs/)
 - [Linear Algebra and Learning from Data (2019)](http://math.mit.edu/~gs/learningfromdata/) by [Gilbert Strang](http://math.mit.edu/~gs/)
