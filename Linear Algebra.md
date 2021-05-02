@@ -2,7 +2,7 @@
 
 ## Courses ##
  - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by [3Blue1Brown](https://www.3blue1brown.com/)
- - [Stanford ENGR108: Introduction to Matrix Methods](https://web.stanford.edu/class/engr108/). [Lecture Slides](https://stanford.edu/class/engr108/lectures.html) Video: [2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) by Professor Stephen Boyd, Stanford University
+ - [Stanford ENGR108: Introduction to Matrix Methods](https://web.stanford.edu/class/engr108/). [Lecture Slides](https://stanford.edu/class/engr108/lectures.html). Video: [2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) by Professor Stephen Boyd, Stanford University
  - MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018. [Video](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) by Gilbert Strang
  - 18.085 / 18.086 Computational Science and Engineering. [Video](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/) by Gilbert Strang
  - Learn Differential Equations. [Video](https://www.mathworks.com/academia/courseware/learn-differential-equations.html) by Gilbert Strang and Cleve Moler
