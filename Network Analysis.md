@@ -2,6 +2,11 @@
 1. [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) by Daniel Romero, University of Michigan
 2. [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/index.html). Video: [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) by [Jurij Leskovec](https://cs.stanford.edu/~jure/), Stanford University
 
+## Books ##
+1. [Network Science](http://networksciencebook.com/) by [Albert-László Barabási](https://barabasi.com/) and [Barabasi Lab](https://www.barabasilab.com/)
+2. [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) by [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
+3. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] by David Easley and Jon Kleinberg
+
 ## Software ##
  - ### Graph ###
 1. [NetworkX](https://networkx.github.io/) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
