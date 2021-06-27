@@ -5,7 +5,7 @@
 ## Books ##
 1. [Network Science](http://networksciencebook.com/) by [Albert-László Barabási](https://barabasi.com/) and [Barabasi Lab](https://www.barabasilab.com/)
 2. [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) by [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/)
-3. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World] by David Easley and Jon Kleinberg
+3. [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
 
 ## Software ##
  - ### Graph ###
