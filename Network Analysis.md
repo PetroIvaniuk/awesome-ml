@@ -20,8 +20,9 @@
 
 ## Blogs ##
 1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
-2. [Thomas Kipf Blog](http://tkipf.github.io).
-
+2. [Thomas Kipf](http://tkipf.github.io).
+3. [Maël Fabien](https://maelfabien.github.io/) 
+  - [Introduction to Graphs](https://maelfabien.github.io/machinelearning/graph_1/#) 
 
 ## Software ##
  - ### Graph ###
