@@ -9,19 +9,19 @@
 4. [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) by Mark Needham & Amy Hodler Published by O'Reilly Media
 
 
-## Tutorials ##
+## Blogs ##
+1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
+2. [Thomas Kipf](http://tkipf.github.io).
+3. [Maël Fabien](https://maelfabien.github.io). [Introduction to Graphs](https://maelfabien.github.io/machinelearning/graph_1/#).
+
+
+## Knowledge Graphs. Tutorials ##
 1. [Tutorial: Build a Knowledge Graph using NLP and Ontologies](https://neo4j.com/developer/graph-data-science/build-knowledge-graph-nlp-ontologies/) by Neo4j. Video: [2020](https://www.youtube.com/watch?v=17NRCNqqbcA&t=823s&ab_channel=Neo4j)
 2. [Mining Knowledge Graphs from Text](https://kgtutorial.github.io/) (WSDM, 2018)
 3. [Knowledge Graphs: In Theory and Practice](http://sumitbhatia.net/source/knowledge-graph-tutorial.html) (FIRE, 2018)
 4. [Knowledge	Graphs](https://staff.fnwi.uva.nl/e.kanoulas/wp-content/uploads/Lecture-10-2-Knowledge-Graphs.pdf) by Evangelos Kanoulas.
 5. [Knowledge Graphs in Natural Language Processing @ ACL 2020](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1) 
 6. [Knowledge Extraction from Unstructured Data](https://blog.heuritech.com/2016/04/15/knowledge-extraction-from-unstructured-texts/) is an article about some techniques.
-
-
-## Blogs ##
-1. [Research Blog](https://medium.com/octavian-ai) of [OCTAVIAN](https://www.octavian.ai/) that create new approaches to machine reasoning and graph-based learning.
-2. [Thomas Kipf](http://tkipf.github.io).
-3. [Maël Fabien](https://maelfabien.github.io). [Introduction to Graphs](https://maelfabien.github.io/machinelearning/graph_1/#).
 
 
 ## Software ##
