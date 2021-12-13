@@ -15,18 +15,23 @@ List of interesting things about Machine Learning Algorithms:
 
 ## [Reinforcement Learning](https://github.com/PetroIvaniuk/awesome-ml/blob/master/Reinforcement%20Learning.md) ##
 
+## Courses ##
+
+- Applied Machine Learning (CS5785) at Cornell Tech by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). [Video Fall 2020](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [Github Fall 2020](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml), [Github Fall2021](https://github.com/kuleshov/cornell-cs5785-2021-applied-ml/tree/main/notebooks)
+
+## Books ##
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
+- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos
+-
+
 ## Challenges ##
 
  - [Kaggle](https://www.kaggle.com/) is data science challenges platform
  - [Xeek](https://xeek.ai/challenges) is challenges unite the data and geoscience communities around the shared goal of crowdsourcing innovative solutions that solve the biggest challenges in exploration.
  - [Alexa Prize](https://developer.amazon.com/alexaprize)
-
-## Books ##
-- [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-- [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
-- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos
-- 
 
 ## Learning Platforms ##
  
