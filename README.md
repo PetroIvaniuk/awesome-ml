@@ -18,7 +18,7 @@ List of interesting things about Machine Learning Algorithms:
 ## Courses ##
 
 - Applied Machine Learning (CS5785) at Cornell Tech by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). [Video Fall 2020](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [Github Fall 2020](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml), [Github Fall2021](https://github.com/kuleshov/cornell-cs5785-2021-applied-ml/tree/main/notebooks)
-
+- Making Friends with Machine Learning by Cassie Kozyrkov. [Video Yotube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 ## Books ##
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
