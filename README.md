@@ -25,13 +25,16 @@ List of interesting things about Machine Learning Algorithms:
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/) by Terence Parr and Jeremy Howard
 - [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/) by Rob J Hyndman and George Athanasopoulos
--
 
 ## Challenges ##
 
- - [Kaggle](https://www.kaggle.com/) is data science challenges platform
+ - [Kaggle](https://www.kaggle.com/) is data science challenges platform.
  - [Xeek](https://xeek.ai/challenges) is challenges unite the data and geoscience communities around the shared goal of crowdsourcing innovative solutions that solve the biggest challenges in exploration.
  - [Alexa Prize](https://developer.amazon.com/alexaprize)
+ - [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp/) by Andrew Ng.
+ - [The Animal-AI Testbed](http://www.animalaiolympics.com/AAI/) 
+ - [Waymo Open Dataset Challenges](https://waymo.com/open/challenges/): Motion Prediction, Interaction Prediction, Real-Time 2D Detection, Real-Time 3D Detection.
+
 
 ## Learning Platforms ##
  
