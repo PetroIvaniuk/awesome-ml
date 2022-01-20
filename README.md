@@ -21,11 +21,11 @@ List of interesting things about Machine Learning Algorithms:
     * [Winter 2021 Schedule & syllabus](https://stanford-cs329s.github.io/2021/syllabus.html)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/) by [Josh Tobin](http://josh-tobin.com/) and [Sergey Karayev](https://sergeykarayev.com/) and [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/). [Youtube](https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ)
     * [Fall 2019](https://fall2019.fullstackdeeplearning.com/);
-    * [Spring 2021](https://fullstackdeeplearning.com/spring2021/), ([Schedule](https://docs.google.com/document/d/e/2PACX-1vSSSHcahlrJRvVq4qRKDX2jYLjhgpbWZjqmDcWZ7w3FWItZrlSKw6GY7rcSj5ZkJr6M0DaR8QbKCd8S/pub)). 
+    * [Spring 2021](https://fullstackdeeplearning.com/spring2021/) ([Schedule](https://docs.google.com/document/d/e/2PACX-1vSSSHcahlrJRvVq4qRKDX2jYLjhgpbWZjqmDcWZ7w3FWItZrlSKw6GY7rcSj5ZkJr6M0DaR8QbKCd8S/pub)). 
 - Deep Learning by NYU
     * [Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Introduction to Deep Learning](http://introtodeeplearning.com/index.html) by MIT. [Video](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) by [Lex Fridman](https://lexfridman.com/) and others at MIT.
+- [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) by [Lex Fridman](https://lexfridman.com/) and others at MIT
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by FastAI
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
 
