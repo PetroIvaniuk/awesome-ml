@@ -15,6 +15,7 @@ List of interesting things about Machine Learning Algorithms:
 
 ## Courses ##
 
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) by Brian Yu and at David J. Malan at Harvard
 - Applied Machine Learning (CS5785) at Cornell Tech by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). [Video Fall 2020](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [Github Fall 2020](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml), [Github Fall2021](https://github.com/kuleshov/cornell-cs5785-2021-applied-ml/tree/main/notebooks)
 - Making Friends with Machine Learning by Cassie Kozyrkov. [Video Yotube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html) by Stanford
