@@ -40,7 +40,7 @@ List of interesting things about Machine Learning Algorithms:
 - [Dive into Deep Learning](https://d2l.ai/) by Alex Smola and other
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
 - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-- [Algorithms & Data Structures](Algorithms & Data Structures) by Afshine Amidi and Shervine Amidi
+- [Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts) by Afshine Amidi and Shervine Amidi
  
 ## Challenges ##
 
