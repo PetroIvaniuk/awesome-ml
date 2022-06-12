@@ -16,7 +16,8 @@ List of interesting things about Machine Learning Algorithms:
 ## Courses ##
 
 - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) by Brian Yu and at David J. Malan at Harvard
-- Applied Machine Learning (CS5785) at Cornell Tech by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). [Video Fall 2020](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [Github Fall 2020](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml), [Github Fall2021](https://github.com/kuleshov/cornell-cs5785-2021-applied-ml/tree/main/notebooks)
+- Applied Machine Learning (CS5785) at Cornell Tech by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). [Video Fall 2020](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), [Github Fall 2020](https://github.com/kuleshov/cornell-cs5785-2020-applied-ml), [Github Fall 2021](https://github.com/kuleshov/cornell-cs5785-2021-applied-ml/tree/main/notebooks)
+- [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228-notes/) by Volodymyr Kuleshov and Stefano Ermon
 - Making Friends with Machine Learning by Cassie Kozyrkov. [Video Yotube](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html) by Stanford
     * [Winter 2021 Schedule & syllabus](https://stanford-cs329s.github.io/2021/syllabus.html)
@@ -30,7 +31,6 @@ List of interesting things about Machine Learning Algorithms:
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by FastAI
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
 
-
 ## Books ##
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/) by [Deisenroth](https://deisenroth.cc/), A. Aldo Faisal, and Cheng Soon Ong
@@ -40,8 +40,8 @@ List of interesting things about Machine Learning Algorithms:
 - [Dive into Deep Learning](https://d2l.ai/) by Alex Smola and other
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
 - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-
-
+- [Algorithms & Data Structures](Algorithms & Data Structures) by Afshine Amidi and Shervine Amidi
+ 
 ## Challenges ##
 
  - [Kaggle](https://www.kaggle.com/) is data science challenges platform.
@@ -50,7 +50,6 @@ List of interesting things about Machine Learning Algorithms:
  - [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp/) by Andrew Ng.
  - [The Animal-AI Testbed](http://www.animalaiolympics.com/AAI/) 
  - [Waymo Open Dataset Challenges](https://waymo.com/open/challenges/): Motion Prediction, Interaction Prediction, Real-Time 2D Detection, Real-Time 3D Detection.
-
 
 ## Learning Platforms ##
  
