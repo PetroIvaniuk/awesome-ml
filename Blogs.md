@@ -4,15 +4,15 @@
  - [Gene Kogan](https://genekogan.com/)
  - [Explained.AI](https://explained.ai/) by [Terence Parr](https://parrt.cs.usfca.edu/) - Deep explanations of MP and related topics with visualization.
  - [Jay Alammar](https://jalammar.github.io/) - Visualizing machine learning one concept at a time.
+ - [Sebastian Raschka](https://sebastianraschka.com/)
  - [Christopher Olah](http://colah.github.io/)
  - [Ferenc Huszár](https://www.inference.vc/) 
- - [Mike Bostock.](https://bost.ocks.org/mike/) [New](https://observablehq.com/@mbostock)
+ - [Mike Bostock](https://bost.ocks.org/mike/). [New](https://observablehq.com/@mbostock)
  - [Amit Chaudhary](https://amitness.com/)
  - [Mathias Müller](https://bricksdont.github.io/year-archive/) - Machine translation researcher
  - [David Abel](https://david-abel.github.io/index.html)
  - [Sam Greydanus](https://greydanus.github.io/)
  - [Tom Augspurger](https://tomaugspurger.github.io/) - Datasframe
- - 
  
  ### Ukrainian Researchers ###
  - [Yaroslava Lochman](https://ylochman.github.io/) - Geometry and machine learning in 3D Computer Vision.
