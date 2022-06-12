@@ -41,7 +41,8 @@ List of interesting things about Machine Learning Algorithms:
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen 
 - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 - [Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts) by Afshine Amidi and Shervine Amidi
- 
+- Case Studies in Neural Data Analysis by Mark Kramer and Uri Eden. [The material in Python](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
+
 ## Challenges ##
 
  - [Kaggle](https://www.kaggle.com/) is data science challenges platform.
