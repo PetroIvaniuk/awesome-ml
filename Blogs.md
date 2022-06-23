@@ -7,13 +7,16 @@
  - [Sebastian Raschka](https://sebastianraschka.com/)
  - [Christopher Olah](http://colah.github.io/)
  - [Ferenc Huszár](https://www.inference.vc/) 
- - [Mike Bostock](https://bost.ocks.org/mike/). [New](https://observablehq.com/@mbostock)
+ - [Mike Bostock](https://observablehq.com/@mbostock), [Old blog](https://bost.ocks.org/mike/) - creator of [Observable](https://observablehq.com/) and [d3.js](https://d3js.org/)
  - [Amit Chaudhary](https://amitness.com/)
- - [Mathias Müller](https://bricksdont.github.io/year-archive/) - Machine translation researcher
+ - [Mathias Müller](https://bricksdont.github.io/year-archive/) - Machine Translation Researcher
  - [David Abel](https://david-abel.github.io/index.html)
+ - [Datasframe](https://tomaugspurger.github.io/) by Tom Augspurger 
  - [Sam Greydanus](https://greydanus.github.io/)
- - [Tom Augspurger](https://tomaugspurger.github.io/) - Datasframe
- 
+ - [Red Blob Games](https://www.redblobgames.com/) by Amit Patel
+ - [Matthias Fey](https://rusty1s.github.io/#/) - creator of [PyG (PyTorch Geometric)](https://github.com/pyg-team/pytorch_geometric)
+ - [Pinch of Intelligence](http://www.pinchofintelligence.com/) - Roland Meertens Blog, mostly about robotics and self-driving cars
+
  ### Ukrainian Researchers ###
  - [Yaroslava Lochman](https://ylochman.github.io/) - Geometry and machine learning in 3D Computer Vision.
  - [Bogdan Penkovsky](https://penkovsky.com/)
