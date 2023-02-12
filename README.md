@@ -23,13 +23,17 @@ List of interesting things about Machine Learning Algorithms:
     * [Winter 2021 Schedule & syllabus](https://stanford-cs329s.github.io/2021/syllabus.html)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/) by [Josh Tobin](http://josh-tobin.com/) and [Sergey Karayev](https://sergeykarayev.com/) and [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/)
     * [2022](https://fullstackdeeplearning.com/course/2022/), [2021](https://fullstackdeeplearning.com/spring2021/), [Youtube](https://www.youtube.com/channel/UCVchfoB65aVtQiDITbGq2LQ)
-
 - Deep Learning by NYU
     * [Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Introduction to Deep Learning](http://introtodeeplearning.com/index.html) by MIT. [Video](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu/) by [Lex Fridman](https://lexfridman.com/) and others at MIT
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by FastAI
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
+
+## Projects ##
+- [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - A Generative Model for Sculpting 3D Digital Avatars
+- [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model
+- [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - A flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
 
