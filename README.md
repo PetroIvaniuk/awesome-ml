@@ -33,6 +33,8 @@ List of interesting things about Machine Learning Algorithms:
 ## Projects ##
 - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - A Generative Model for Sculpting 3D Digital Avatars
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model
+- [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - A method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
+- [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - Inferring a meaningful geometric scene representation from a single image
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - A flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
