@@ -31,12 +31,20 @@ List of interesting things about Machine Learning Algorithms:
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
 
 ## Projects ##
-- [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - A Generative Model for Sculpting 3D Digital Avatars
-- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - A model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
-- [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model
-- [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - A method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
+- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
+- [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/) - an experimental conversational AI service, powered by LaMDA. Bard seeks to combine the breadth of the world’s knowledge with the power, intelligence and creativity of our large language models, by Google Research
+- [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/) - Language Model for Dialogue Applications, by Google Research
+- [Pathways Language Model (PaLM)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
+- [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
+- [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
+- [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
+- [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://damo-vilab.github.io/composer-page/) - a new generation paradigm that allows flexible control of the output image, such as spatial layout and palette, while maintaining the synthesis quality and model creativity
+- [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars
+- [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - Inferring a meaningful geometric scene representation from a single image
-- [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - A flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
+- [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - Our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
+- [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
+- [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
 
