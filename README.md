@@ -32,13 +32,25 @@ List of interesting things about Machine Learning Algorithms:
 
 ## Projects ##
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
+- [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 - [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/) - an experimental conversational AI service, powered by LaMDA. Bard seeks to combine the breadth of the world’s knowledge with the power, intelligence and creativity of our large language models, by Google Research
 - [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/) - Language Model for Dialogue Applications, by Google Research
-- [Pathways Language Model (PaLM)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
+- [PaLM (Pathways Language Model)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts.
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://damo-vilab.github.io/composer-page/) - a new generation paradigm that allows flexible control of the output image, such as spatial layout and palette, while maintaining the synthesis quality and model creativity
+- [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
+
+- [GEN-1](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones
+  - Mode 01: Stylization - Transfer the style of any image or prompt to every frame of your video.
+  - Mode 02: Storyboard - Turn mockups into fully stylized and animated renders.
+  - Mode 03: Mask - Isolate subjects in your video and modify them with simple text prompts.
+  - Mode 04: Render - Turn untextured renders into realistic outputs by applying an input image or prompt.
+  - Mode 05: Customization - Unleash the full power of Gen-1 by customizing the model for even higher fidelity results.
+- [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - a new GAN architecture that far exceeds the limit, demonstrating GANs as a viable option for text-to-image synthesis
 - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars
 - [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - Inferring a meaningful geometric scene representation from a single image
