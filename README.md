@@ -39,11 +39,14 @@ List of interesting things about Machine Learning Algorithms:
 - [PaLM (Pathways Language Model)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts.
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
+- [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here.
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
+- [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
+
+- [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://damo-vilab.github.io/composer-page/) - a new generation paradigm that allows flexible control of the output image, such as spatial layout and palette, while maintaining the synthesis quality and model creativity
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
-
 - [GEN-1](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones
   - Mode 01: Stylization - Transfer the style of any image or prompt to every frame of your video.
   - Mode 02: Storyboard - Turn mockups into fully stylized and animated renders.
