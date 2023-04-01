@@ -30,6 +30,14 @@ List of interesting things about Machine Learning Algorithms:
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by FastAI
 - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) by Sentdex
 
+## Tools ##
+- [Midjourney](https://www.midjourney.com/) - generate images based on prompt
+- [Catbird](https://www.catbird.ai/) - one prompt, many models... generate images from dozens of models at once
+- [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
+- [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
+- [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI
+- [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
+
 ## Projects ##
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
@@ -41,7 +49,6 @@ List of interesting things about Machine Learning Algorithms:
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
 - [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here.
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
-- [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
 
 - [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
@@ -59,6 +66,7 @@ List of interesting things about Machine Learning Algorithms:
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - Inferring a meaningful geometric scene representation from a single image
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - Our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
