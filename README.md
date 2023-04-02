@@ -35,8 +35,11 @@ List of interesting things about Machine Learning Algorithms:
 - [Catbird](https://www.catbird.ai/) - one prompt, many models... generate images from dozens of models at once
 - [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
-- [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI
+- [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
 - [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
+- [Gamma](https://gamma.app/) - create visually appealing presentations
+- [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
+- [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Projects ##
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
@@ -44,16 +47,17 @@ List of interesting things about Machine Learning Algorithms:
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 - [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/) - an experimental conversational AI service, powered by LaMDA. Bard seeks to combine the breadth of the world’s knowledge with the power, intelligence and creativity of our large language models, by Google Research
 - [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/) - Language Model for Dialogue Applications, by Google Research
-- [PaLM (Pathways Language Model)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
-- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts.
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
+- [PaLM (Pathways Language Model)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
+- [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
 - [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here.
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
-
 - [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://damo-vilab.github.io/composer-page/) - a new generation paradigm that allows flexible control of the output image, such as spatial layout and palette, while maintaining the synthesis quality and model creativity
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
+
 - [GEN-1](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones
   - Mode 01: Stylization - Transfer the style of any image or prompt to every frame of your video.
   - Mode 02: Storyboard - Turn mockups into fully stylized and animated renders.
@@ -67,6 +71,7 @@ List of interesting things about Machine Learning Algorithms:
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - Our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
+- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
