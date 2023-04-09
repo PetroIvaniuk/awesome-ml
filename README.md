@@ -33,6 +33,7 @@ List of interesting things about Machine Learning Algorithms:
 ## Tools ##
 - [Midjourney](https://www.midjourney.com/) - generate images based on prompt
 - [Catbird](https://www.catbird.ai/) - one prompt, many models... generate images from dozens of models at once
+- [MONSTER API](https://monsterapi.ai/) - 1) Text to Image generation, 2) Image to Image generation, 3) Text prompt driven image editing using Stable Diffusion v1.5 AI Model
 - [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
