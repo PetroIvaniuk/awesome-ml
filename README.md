@@ -37,21 +37,36 @@ List of interesting things about Machine Learning Algorithms:
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
 - [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
+- [Koe Recast](https://koe.ai/) - transform your voice using AI
 - [Gamma](https://gamma.app/) - create visually appealing presentations
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
+- [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Projects ##
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
+- [MuAViC](https://ai.facebook.com/blog/muavic-audio-visual-speech-translation-benchmark/) - a Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation by MetaAI
+- [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages by Google Research
+
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
+
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - a foundational, 65-billion-parameter large language model by MetaAI
+  - [Repository](https://github.com/facebookresearch/llama) is intended as a minimal, hackable and readable example to load LLaMA models and run inference
+  - [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) - a lightweight adaption method for fine-tuning instruction-following LLaMA models 
+
 - [BARD](https://blog.google/technology/ai/bard-google-ai-search-updates/) - an experimental conversational AI service, powered by LaMDA. Bard seeks to combine the breadth of the world’s knowledge with the power, intelligence and creativity of our large language models, by Google Research
 - [LaMDA: our breakthrough conversation technology](https://blog.google/technology/ai/lamda/) - Language Model for Dialogue Applications, by Google Research
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
 - [PaLM (Pathways Language Model)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) - 
+
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
-- [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here.
+- [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
+
+- [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here
+- [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
+
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - Muse is a fast, state-of-the-art text-to-image generation and editing model, by Google Research
 - [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
@@ -72,6 +87,8 @@ List of interesting things about Machine Learning Algorithms:
 - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
+- [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Repository](https://github.com/facebookresearch/segment-anything)
+ 
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Books ##
