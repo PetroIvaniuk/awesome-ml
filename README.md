@@ -123,7 +123,7 @@ List of interesting things about Machine Learning Algorithms:
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 
 ### Robotics
-- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning] - by OP3 Soccer Team, DeepMind
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, DeepMind
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
