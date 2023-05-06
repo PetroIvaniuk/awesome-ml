@@ -46,18 +46,20 @@ List of interesting things about Machine Learning Algorithms:
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Projects ##
-### Large Language Lodels (LLMs)
+### Large Language Lodels (LLMs) and Chatbots
 [ChatGPT Prompt Engineering for Developers | Andrew Ng | Isa Fulford | Course](https://learn.deeplearning.ai/chatgpt-prompt-eng) \
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E)
 
-||Google|OpenAI|Meta|EleutherAI|DeepMind|
-:-:|:-:|:-:|:-:|:-:|:-:
-2023|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|Pythia|
-2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|ChatGPT||GPT-NeoX|
-2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||
+||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI|
+:-:|:-:|:-:|:-:|:-:|:-:|:-:
+2023|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HuggingFace](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
+2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|ChatGPT||GPT-NeoX||
+2021|[LaMDA](https://blog.google/technology/ai/lamda/)|||||
 
+- [Chatbot Arena ](https://chat.lmsys.org/) - chat with two anonymous models side-by-side and vote for which one is better!
 - [AI Playground](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
-- [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models), [Repo](https://github.com/stability-AI/stableLM/), [Demo](https://huggingface.co/spaces/CarperAI/StableVicuna) - an open-source language model by Stability AI
+- [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
+- [ChatwithData.ai]() - AI tool that lets you extract valuable insights and information from data files effortlessly
 - [Open Assistant](https://open-assistant.io/) - a completely open-source ChatGPT alternative
 - [HuggingChat](https://huggingface.co/chat/) - first open source alternative to ChatGPT Powered by Open Assistant's latest model
 - [PdfGPT](https://pdfgpt.io/) - is a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
@@ -70,7 +72,7 @@ List of interesting things about Machine Learning Algorithms:
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 
 ### Speech & Music
- - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), [Demo](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
+ - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
  - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
@@ -82,8 +84,8 @@ List of interesting things about Machine Learning Algorithms:
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ### Text-to-image
-- [Stable Diffusion XL](https://clipdrop.co/stable-diffusion) - generate images from text
-- [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model) - is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI, together with its multimodal AI research lab DeepFloyd
+- [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Demo: Clipdrop](https://clipdrop.co/stable-diffusion) - create descriptive images with shorter prompts and generate words within images
+- [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Repo](https://github.com/deep-floyd/IF), [Demo: HuggingFace](https://huggingface.co/spaces/DeepFloyd/IF),- is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI, together with its multimodal AI research lab DeepFloyd
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
 - [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - a fast, state-of-the-art text-to-image generation and editing model, by Google Research
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
@@ -104,6 +106,7 @@ List of interesting things about Machine Learning Algorithms:
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ### Image
+- [Image Upscaling API](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness by Stability AI
 - [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless.
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - Bring children's drawings to life, by animating characters to move around by MetaAI
 - [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
